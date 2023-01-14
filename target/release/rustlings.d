@@ -1,0 +1,1 @@
+/home/tao/Desktop/rustlings/target/release/rustlings: /home/tao/Desktop/rustlings/src/exercise.rs /home/tao/Desktop/rustlings/src/main.rs /home/tao/Desktop/rustlings/src/project.rs /home/tao/Desktop/rustlings/src/run.rs /home/tao/Desktop/rustlings/src/ui.rs /home/tao/Desktop/rustlings/src/verify.rs

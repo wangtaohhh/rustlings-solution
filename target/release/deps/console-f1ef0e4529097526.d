@@ -1,0 +1,13 @@
+/home/tao/Desktop/rustlings/target/release/deps/console-f1ef0e4529097526.rmeta: /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/lib.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/common_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/kb.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/unix_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/utils.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/ansi.rs
+
+/home/tao/Desktop/rustlings/target/release/deps/libconsole-f1ef0e4529097526.rlib: /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/lib.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/common_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/kb.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/unix_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/utils.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/ansi.rs
+
+/home/tao/Desktop/rustlings/target/release/deps/console-f1ef0e4529097526.d: /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/lib.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/common_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/kb.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/unix_term.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/utils.rs /home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/ansi.rs
+
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/lib.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/common_term.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/kb.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/term.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/unix_term.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/utils.rs:
+/home/tao/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.4/src/ansi.rs:
